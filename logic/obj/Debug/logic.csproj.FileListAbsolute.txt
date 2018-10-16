@@ -1,0 +1,5 @@
+C:\Users\josea\Documents\Visual Studio 2015\1. LOGISTICA\2. SUBMODULO B\MUESTREOAUDITORIA\logic\bin\Debug\logic.dll
+C:\Users\josea\Documents\Visual Studio 2015\1. LOGISTICA\2. SUBMODULO B\MUESTREOAUDITORIA\logic\bin\Debug\logic.pdb
+C:\Users\josea\Documents\Visual Studio 2015\1. LOGISTICA\2. SUBMODULO B\MUESTREOAUDITORIA\logic\obj\Debug\logic.dll
+C:\Users\josea\Documents\Visual Studio 2015\1. LOGISTICA\2. SUBMODULO B\MUESTREOAUDITORIA\logic\obj\Debug\logic.pdb
+C:\Users\josea\Documents\Visual Studio 2015\1. LOGISTICA\2. SUBMODULO B\MUESTREOAUDITORIA\logic\obj\Debug\logic.csprojResolveAssemblyReference.cache
